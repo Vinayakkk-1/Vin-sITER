@@ -1,2 +1,3 @@
 # Vin-sITER
-Basically my first GitHub repository
+Thisa is my frist Git repositor
+Author - Vinayak
